@@ -47,8 +47,7 @@ I/O Handling: Todas as operações de leitura e gravação no disco são protegi
 💻 Estrutura de Dados (Exemplo do Modelo)
 A classe Task foi projetada respeitando o encapsulamento (Getters e Setters), controle de IDs dinâmicos atrelados ao tamanho do array, e versionamento de data com java.util.Date. O resultado é um payload JSON altamente estruturado:
 
-JSON
-[
+JSON[
   {
     "descricao": "Estudar Spring Boot e REST APIs",
     "id": 0,
