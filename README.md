@@ -1,5 +1,4 @@
 # CLI TASK APP
-# CLI Task Manager 🚀
 > **Gerenciamento de Estado e Persistência de Dados em Ecossistemas Java.**
 
 Este projeto é uma aplicação de linha de comando (CLI) robusta, desenvolvida para demonstrar competências avançadas em engenharia de software, automação de build e integração com bibliotecas de mercado para persistência de dados.
