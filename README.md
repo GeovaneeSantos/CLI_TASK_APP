@@ -43,11 +43,11 @@ O estado das tarefas é preservado de forma estruturada, permitindo fácil integ
     "data": 1773602208283
   }
 ]
-
-```Bash
+```
 # O que ocorre sob os panos do .bat:
+````Bash
 java -jar CliTaskApp-1.0-SNAPSHOT.jar
-
+````
 Autor: Geovane Rodrigues dos Santos
 
 Estudante de Ciência da Computação | Foco em Back-end & Industria 4.0
