@@ -51,9 +51,9 @@ Certifique-se de ter o Java (JRE) 17 ou superior instalado.
 
 Clone o repositório ou baixe o arquivo .jar.
 
-Coloque a pasta CLI_TASK_APP-main no disco local (C://)
+Coloque a pasta ``CLI_TASK_APP-main`` no disco local (C://)
 
-Renomeie a pasta CLI_TASK_APP-main para CLI_TASK_APP
+Renomeie a pasta ``CLI_TASK_APP-main`` para ``CLI_TASK_APP``
 
 Execute o arquivo ``execute.bat`` (Windows) ou utilize o terminal:
 
