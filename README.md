@@ -1,11 +1,11 @@
 # CLI TASK APP
 > **Gerenciamento de Estado e Persistência de Dados em Ecossistemas Java.**
 
-Este projeto é uma aplicação de linha de comando (CLI) robusta, desenvolvida para demonstrar competências avançadas em engenharia de software, automação de build e integração com bibliotecas de mercado para persistência de dados.
+Este projeto é uma aplicação de linha de comando (CLI) robusta, desenvolvida para demonstrar competências em engenharia de software, automação de build e integração com bibliotecas de mercado para persistência de dados.
 
 ---
 
-## 🛠️ Stack Tecnológica & Diferenciais Estratégicos
+## Stack Tecnológica & Diferenciais Estratégicos
 
 * **Java 24 (Latest LTS Focus)**: Utilização de recursos modernos para garantir performance e tipagem segura.
 * **Apache Maven**: Orquestração completa do ciclo de vida do projeto (Build, Test, Package).
@@ -14,9 +14,9 @@ Este projeto é uma aplicação de linha de comando (CLI) robusta, desenvolvida 
 
 ---
 
-## 🧠 Engenharia e Resiliência do Código
+## Engenharia e Resiliência do Código
 
-A aplicação foi construída sob os pilares da **Programação Defensiva** e **Qualidade de Software**:
+A aplicação foi construída sob os pilares da **Qualidade de Software**:
 
 1.  **Tratamento de Exceções**: Implementação de blocos `try-catch` para capturar `NumberFormatException`, `NullPointerException` e `IOException`, garantindo que o software permaneça operacional mesmo diante de entradas inválidas do usuário.
 2.  **I/O Handling**: Uso de fluxos de saída seguros com `FileOutputStream` e `writerWithDefaultPrettyPrinter()`, garantindo que o arquivo de dados seja gerado com indentação profissional e legível.
@@ -24,7 +24,7 @@ A aplicação foi construída sob os pilares da **Programação Defensiva** e **
 
 ---
 
-## 📂 Estrutura de Dados (JSON)
+## Estrutura de Dados (JSON)
 
 O estado das tarefas é preservado de forma estruturada, permitindo fácil integração com outras ferramentas ou futuras APIs:
 
