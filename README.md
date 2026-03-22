@@ -1,3 +1,4 @@
+# CLI TASK APP
 CLI Task Manager: Gerenciamento de Estado e Persistência em Java
 Um sistema de gerenciamento de tarefas via terminal (CLI), projetado com foco em resiliência, distribuição autônoma (Uber-JAR) e persistência de dados em JSON.
 
